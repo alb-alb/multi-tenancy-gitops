@@ -1,7 +1,7 @@
 resources:
 # IBM Software
 # SCCM
-- argocd/instances/ibm-sccm-db2.yaml
+# - argocd/instances/ibm-sccm-db2.yaml
 # - argocd/instances/ibm-sccm-setup.yaml
 # - argocd/instances/ibm-sccm.yaml
 ## Cloud Pak for Integration
