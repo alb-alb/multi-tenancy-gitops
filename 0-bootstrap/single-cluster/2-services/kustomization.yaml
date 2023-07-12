@@ -8,7 +8,8 @@ resources:
 - argocd/instances/ibm-sfg-mq-prod.yaml
 - argocd/instances/ibm-sfg-b2bi-prod-setup.yaml
 - argocd/instances/ibm-sfg-b2bi-prod.yaml
-## Cloud Pak for Integration
+## Connect Direct
+- argocd/ibm-connect-direct-setup.yaml
 #- argocd/operators/ibm-ace-operator.yaml
 #- argocd/operators/ibm-apic-operator.yaml
 #- argocd/instances/ibm-apic-instance.yaml
@@ -75,7 +76,7 @@ resources:
 #- argocd/operators/ibm-automation-foundation-operator.yaml
 #- argocd/operators/ibm-license-service-operator.yaml
 #- argocd/instances/ibm-license-service-instance.yaml
-- argocd/ibm-connect-direct-setup.yaml
+
 #- argocd/ibm-connect-direct.yaml
 ## IBM Catalogs
 - argocd/operators/ibm-catalogs.yaml
