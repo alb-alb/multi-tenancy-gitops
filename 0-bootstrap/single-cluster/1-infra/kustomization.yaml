@@ -11,6 +11,7 @@ resources:
 - argocd/sterling-cd-clusterwide.yaml
 - argocd/namespace-b2bi-prod.yaml
 - argocd/namespace-connect-direct.yaml
+- argocd/serviceaccounts-connect-direct.yaml
 - argocd/serviceaccounts-b2bi-prod.yaml
 - argocd/sfg-b2bi-clusterwide.yaml
 
