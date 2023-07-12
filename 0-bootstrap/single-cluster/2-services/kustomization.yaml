@@ -10,7 +10,7 @@ resources:
 - argocd/instances/ibm-sfg-b2bi-prod.yaml
 ## Connect Direct
 - argocd/instances/ibm-connect-direct-setup.yaml
-- argocd/instances/ibm-connect-direct.yaml
+# - argocd/instances/ibm-connect-direct.yaml
 
 ## IBM Catalogs
 - argocd/operators/ibm-catalogs.yaml
