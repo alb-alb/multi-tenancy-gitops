@@ -15,8 +15,6 @@ resources:
 - argocd/serviceaccounts-b2bi-prod.yaml
 - argocd/sfg-b2bi-clusterwide.yaml
 - argocd/namespace-ssp.yaml
-- argocd/instances/sterling-secure-proxy-cm-instance.yaml
-- argocd/instances/sterling-secure-proxy-engine-instance.yaml
 #- argocd/namespace-knative-eventing.yaml
 #- argocd/namespace-knative-serving.yaml
 #- argocd/namespace-knative-serving-ingress.yaml

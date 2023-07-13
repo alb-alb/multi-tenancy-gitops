@@ -15,7 +15,8 @@ resources:
 ## IBM Catalogs
 - argocd/operators/ibm-catalogs.yaml
 
-
+- argocd/instances/sterling-secure-proxy-cm-instance.yaml
+- argocd/instances/sterling-secure-proxy-engine-instance.yaml
 # B2BI
 #- argocd/instances/ibm-sfg-db2-prod.yaml
 #- argocd/instances/ibm-sfg-mq-prod.yaml
